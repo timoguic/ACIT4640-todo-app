@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Simple todo application.",
   "main": "server.js",
-  "author": "Scotch",
+  "author": "Timothée Guicherd",
   "dependencies": {
     "body-parser": "^1.18.2",
     "mongoose": "4.10.8",
